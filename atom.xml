@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LATTE world</title>
+  <subtitle>Kuan Zhou</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kzhoulatte.github.io/"/>
+  <updated>2017-04-10T07:58:48.000Z</updated>
+  <id>https://kzhoulatte.github.io/</id>
+  
+  <author>
+    <name>Kuan Zhou</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编辑室的故事</title>
+    <link href="https://kzhoulatte.github.io/2017/04/09/%E7%BC%96%E8%BE%91%E5%AE%A4%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    <id>https://kzhoulatte.github.io/2017/04/09/编辑室的故事/</id>
+    <published>2017-04-10T00:52:21.000Z</published>
+    <updated>2017-04-10T07:58:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&ensp; 最近看完了《编辑室的故事》，除了被片尾曲些许着迷，更多的感叹是：<br>&ensp; “这人呐，贵在清醒”</p>
+<p>&ensp; “打在胎里，随时可能流产；当妈的一口烟就可能长成畸形，长慢了心脏缺损，长快了就6指；扛过十个月，一不留神让产钳把脑袋夹扁了，都躲过去了。小儿麻痹，百日咳，猩红热，大脑炎，前面等着；哭起来呛奶，走起来摔跤，摸水水烫，碰火火燎；是个东西撞上就是半死，钙多了不长个，钙少了罗圈腿；混到能吃饭能出门，天上下雹子，地下跑汽车，大街小巷是个暗处就躲着坏人，赶上谁都是个九死一生。”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;ensp; 最近看完了《编辑室的故事》，除了被片尾曲些许着迷，更多的感叹是：&lt;br&gt;&amp;ensp; “这人呐，贵在清醒”&lt;/p&gt;
+&lt;p&gt;&amp;ensp; “打在胎里，随时可能流产；当妈的一口烟就可能长成畸形，长慢了心脏缺损，长快了就6指；扛过十个月，一不留神让产钳把脑袋夹扁了，
+    
+    </summary>
+    
+    
+      <category term="观后感" scheme="https://kzhoulatte.github.io/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="https://kzhoulatte.github.io/2017/04/09/About-Me/"/>
+    <id>https://kzhoulatte.github.io/2017/04/09/About-Me/</id>
+    <published>2017-04-09T21:38:07.000Z</published>
+    <updated>2017-04-10T07:46:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&ensp;&ensp;I am a PhD candidate at UC Riverside. I am now focused on semiconductor research and data science. This is a personal blog which I use to help organize my thoughts about my research. Thanks.</p>
+<p>&ensp;&ensp;My contacts are:<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Name: Kuan Zhou<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Cell: 951-318-1339<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Email: kzhou003@ucr.edu</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;ensp;&amp;ensp;I am a PhD candidate at UC Riverside. I am now focused on semiconductor research and data science. This is a personal blog wh
+    
+    </summary>
+    
+    
+      <category term="Personal" scheme="https://kzhoulatte.github.io/tags/Personal/"/>
+    
+  </entry>
+  
+</feed>
