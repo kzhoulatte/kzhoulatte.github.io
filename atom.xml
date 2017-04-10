@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LATTE world</title>
-  <subtitle>Kuan Zhou</subtitle>
+  <subtitle>A personal blog about semiconductor industry and data science.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
