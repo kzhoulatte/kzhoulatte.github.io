@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-04-13T09:44:46.000Z</updated>
+  <updated>2017-04-13T09:47:11.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="https://kzhoulatte.github.io/2017/04/12/coding/"/>
     <id>https://kzhoulatte.github.io/2017/04/12/coding/</id>
     <published>2017-04-13T02:28:50.000Z</published>
-    <updated>2017-04-13T09:44:46.000Z</updated>
+    <updated>2017-04-13T09:47:11.000Z</updated>
     
-    <content type="html"><![CDATA[<p>好好研究了一下Matlab的3D画图功能，参考书籍是《精通Matlab》张志涌。才发现在plot3，meshgrid和surf三个基本命令之后，Matlab的潜能才刚刚是个开始。<b><br>colormap加上shading，view，light，material，alpha几个参数命令，由colormap自然可以得到很多绚丽配色的图，惊喜是light和material的调整就好像摄影里的灯光和美工一样，能够立马让图像获得质感，可以制作符合出版要求的图像。<b><br>同时，一个小发现是，github以及matlab自己的file exchange上，有很多人开发了各种matlab schemer，可以修改matlab的界面。尝试了之后觉得还不错，比较喜欢sublime的仿制版本。<b><br>说到sublime这个被称作性感编辑器的家伙, 下载了之后打开确实小有惊艳，非常有质感的编辑器，加上那么高的灵活性和传说中的各种神插件。我就把它先默默放在那里吧。以后需要的时候，再好好研究一下。<b></b></b></b></b></p>
+    <content type="html"><![CDATA[<p>好好研究了一下Matlab的3D画图功能，参考书籍是《精通Matlab》张志涌。才发现在plot3，meshgrid和surf三个基本命令之后，Matlab的潜能才刚刚是个开始。<b><br>colormap加上shading，view，light，material，alpha几个参数命令，由colormap自然可以得到很多绚丽配色的图，惊喜是light和material的调整就好像摄影里的灯光和美工一样，能够立马让图像获得质感，可以制作符合出版要求的图像。<b><br>同时，一个小发现是，github以及matlab自己的file exchange上，有很多人开发了各种matlab schemer，可以修改matlab的界面。尝试了之后觉得还不错，比较喜欢sublime的仿制版本。<b><br>说到sublime这个被称作性感编辑器的家伙, 下载了之后打开确实小有惊艳，非常有质感的编辑器，加上那么高的灵活性和传说中的各种神插件。我就把它先默默放在那里吧，以后需要的时候，再好好研究一下。<b></b></b></b></b></p>
 <p>Coding… </p>
 ]]></content>
     
