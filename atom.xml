@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-04-13T09:59:25.000Z</updated>
+  <updated>2017-04-17T03:06:49.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>youtube_8M</title>
+    <link href="https://kzhoulatte.github.io/2017/04/16/youtube-8M/"/>
+    <id>https://kzhoulatte.github.io/2017/04/16/youtube-8M/</id>
+    <published>2017-04-16T20:04:30.000Z</published>
+    <updated>2017-04-17T03:06:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li>Youtube-8M Video Understanding Challenge</li>
+</ul>
+<p>** It is about the Google Cloud &amp; <a href="https://www.kaggle.com/c/youtube8m" target="_blank" rel="external">Youtube-8M</a> Video Understanding Challenge hosted by Kaggle.com. </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;Youtube-8M Video Understanding Challenge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;** It is about the Google Cloud &amp;amp; &lt;a href=&quot;https://www.kaggle.com/c/yout
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>coding</title>
