@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-04-19T01:36:58.000Z</updated>
+  <updated>2017-04-20T23:36:17.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RPA understanding</title>
+    <link href="https://kzhoulatte.github.io/2017/04/20/RPA-understanding/"/>
+    <id>https://kzhoulatte.github.io/2017/04/20/RPA-understanding/</id>
+    <published>2017-04-20T16:34:02.000Z</published>
+    <updated>2017-04-20T23:36:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>RPA here is Random Phase Approximation, which is one of the basis approximation in DFT calculation and condensed matter physics. I was not clear about the idea behind it. This is a note which I gradually got better understanding of it. <b></b></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;RPA here is Random Phase Approximation, which is one of the basis approximation in DFT calculation and condensed matter physics. I was no
+    
+    </summary>
+    
+    
+      <category term="notes" scheme="https://kzhoulatte.github.io/tags/notes/"/>
+    
+  </entry>
   
   <entry>
     <title>2D materials-My understanding</title>
