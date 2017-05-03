@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-05-03T09:29:10.000Z</updated>
+  <updated>2017-05-03T23:36:21.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Keras含义</title>
+    <link href="https://kzhoulatte.github.io/2017/05/03/Keras/"/>
+    <id>https://kzhoulatte.github.io/2017/05/03/Keras/</id>
+    <published>2017-05-03T16:34:07.000Z</published>
+    <updated>2017-05-03T23:36:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Keras 是基于Theano的一个深度学习框架，它的设计参考了Torch，用Python编写，是一个高度模块化的神经网络库，支持GPU和CPU。</p>
+<p>Keras 是古希腊语中”角”的意思, 最早出现在古希腊的《奥德赛》. 梦神被分为两派. 一派用虚假景象欺骗人们,他们通过象牙之门来到地面. 一派启示即将经历的未来, 他们通过角之门来到地面. 所以Keras代表“真实/实现”的一方，与“虚幻/欺骗”相对。就如它的名字，Keras 吹响向“深度学习”前进的号角，扫除“深度学习”高不可攀的虚相。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Keras 是基于Theano的一个深度学习框架，它的设计参考了Torch，用Python编写，是一个高度模块化的神经网络库，支持GPU和CPU。&lt;/p&gt;
+&lt;p&gt;Keras 是古希腊语中”角”的意思, 最早出现在古希腊的《奥德赛》. 梦神被分为两派. 一派用虚假景象欺骗人们
+    
+    </summary>
+    
+    
+      <category term="deep learning" scheme="https://kzhoulatte.github.io/tags/deep-learning/"/>
+    
+  </entry>
   
   <entry>
     <title>Fast Lidar-based road detection using fully CNN</title>
