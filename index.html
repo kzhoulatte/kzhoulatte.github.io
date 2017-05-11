@@ -397,7 +397,11 @@
 <p>（2）显卡的SM流处理器簇是GPU的核心部分，其中包括了各种调度器共享内存等等。同时不同架构的区别往往在于SM的设计，比如shared memory大小，比如FP unit，INT unit，DP unit的相互比例关系。这些关系都可以决定这块显卡的性能以及适合做什么工作。（ps：深度学习使用的M系列显卡是单精度的，深度学习并不要求双精度）</p>
 <p>（3）TESLA的K型号卡适合高性能科学计算，同时支持双精度，但是不怎么适合深度学习。</p>
 <p>（4）针对不同的应用，开源库都已经挺完整。卷积计算：cudnn；卷积神经网络：caffe，torch；rnn：mxnet，tensorflow等。</p>
-<p>（5）如果使用多张显卡，注意电源的选择。</p>
+<p>（5）相互的架构连接以及内存技术也一直在更新，比如ECC内存，HBM内存。</p>
+<p>（6）如果使用多张显卡，注意电源的选择。</p>
+<p>关于AMD和NVIDIA的显卡区别，目前看主要的有：</p>
+<p>（1）两者面向更高计算性能的途径不一样，NVIDIA倾向于more capable stream processors allowing for slightly more complex calculations; 而AMD倾向smaller, less complex stream processors。所以两者在不同类型的计算任务上性能各有优劣。</p>
+<p>（2）在图像显示游戏性能方面，虽然也各有优劣。但是由于目前只有CUDA完美支持Physx物理加速，所以N卡比较占优。</p>
 
           
         
