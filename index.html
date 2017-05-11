@@ -392,6 +392,13 @@
             <p>最近NVIDIA的股票又在疯涨。<b><br>AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。</b></p>
 <p>继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。<b><br>挖坑学习一下GPU架构及原理。</b></p>
 <p>待填。</p>
+<p>参考：<a href="https://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html" target="_blank" rel="external">https://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html</a></p>
+<p>里面已经写得非常清楚详细，主要的总结是：</p>
+<p>（1）显卡结构本质上没什么区别，注意核心参数：处理器核心，工作频率，显存位宽，单卡or双卡。对于深度学习，因为数据量大，核心数和显存大小比较重要。同时需要注意CUDA需要让所有的core都工作。</p>
+<p>（2）显卡的SM流处理器簇是GPU的核心部分，其中包括了各种调度器共享内存等等。同时不同架构的区别往往在于SM的设计，比如shared memory大小，比如FP unit，INT unit，DP unit的相互比例关系。这些关系都可以决定这块显卡的性能以及适合做什么工作。（ps：深度学习使用的M系列显卡是单精度的，深度学习并不要求双精度）</p>
+<p>（3）TESLA的K型号卡适合高性能科学计算，同时支持双精度，但是不怎么适合深度学习。</p>
+<p>（4）针对不同的应用，开源库都已经挺完整。卷积计算：cudnn；卷积神经网络：caffe，torch；rnn：mxnet，tensorflow等。</p>
+<p>（5）如果使用多张显卡，注意电源的选择。</p>
 
           
         
