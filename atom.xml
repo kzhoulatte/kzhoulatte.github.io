@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-05-03T23:46:17.000Z</updated>
+  <updated>2017-05-11T01:34:38.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GPUArchitecture</title>
+    <link href="https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/"/>
+    <id>https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/</id>
+    <published>2017-05-10T18:23:02.000Z</published>
+    <updated>2017-05-11T01:34:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近NVIDIA的股票又在疯涨。<b><br>AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。</b></p>
+<p>继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。<b><br>挖坑总结一下GPU架构及原理。</b></p>
+<p>待填。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近NVIDIA的股票又在疯涨。&lt;b&gt;&lt;br&gt;AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。&lt;
+    
+    </summary>
+    
+    
+      <category term="GPU" scheme="https://kzhoulatte.github.io/tags/GPU/"/>
+    
+  </entry>
   
   <entry>
     <title>Keras含义</title>
