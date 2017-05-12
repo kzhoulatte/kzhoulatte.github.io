@@ -98,7 +98,7 @@
 <meta property="og:url" content="https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/index.html">
 <meta property="og:site_name" content="LATTE world">
 <meta property="og:description" content="最近NVIDIA的股票又在疯涨。AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。 继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。挖坑学习一下GPU架构及原理。 参考：https://chenrudan.github.io/blog/2015/12/20/introductionofgpuha">
-<meta property="og:updated_time" content="2017-05-11T23:25:25.000Z">
+<meta property="og:updated_time" content="2017-05-12T00:14:05.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="GPU Architecture">
 <meta name="twitter:description" content="最近NVIDIA的股票又在疯涨。AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。 继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。挖坑学习一下GPU架构及原理。 参考：https://chenrudan.github.io/blog/2015/12/20/introductionofgpuha">
@@ -397,6 +397,7 @@
 <p>关于AMD和NVIDIA的显卡区别，目前看主要的有：</p>
 <p>（1）两者面向更高计算性能的途径不一样，NVIDIA倾向于more capable stream processors allowing for slightly more complex calculations; 而AMD倾向smaller, less complex stream processors。所以两者在不同类型的计算任务上性能各有优劣。</p>
 <p>（2）在图像显示游戏性能方面，虽然也各有优劣。但是由于目前只有CUDA完美支持Physx物理加速（Physx可以在GPU或加速卡），所以N卡比较占优。</p>
+<p>而新的GV100芯片，除了先进的L1 Cache和Memory等技术加线程调度技术，主要新特性是加入了Tensor Core，所以非常适合深度学习。</p>
 
       
     </div>
