@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-05-12T00:14:05.000Z</updated>
+  <updated>2017-05-16T06:36:41.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Lidar Deep Learning details</title>
+    <link href="https://kzhoulatte.github.io/2017/05/15/Lidar-DL-details/"/>
+    <id>https://kzhoulatte.github.io/2017/05/15/Lidar-DL-details/</id>
+    <published>2017-05-15T23:34:16.000Z</published>
+    <updated>2017-05-16T06:36:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>31号是正式DL课程presentation的时间，之前仔细看了一遍论文，但是挺多细节还是需要仔细考证的。还有两周时间，好好开始准备：</p>
+<p>（To be continued…）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;31号是正式DL课程presentation的时间，之前仔细看了一遍论文，但是挺多细节还是需要仔细考证的。还有两周时间，好好开始准备：&lt;/p&gt;
+&lt;p&gt;（To be continued…）&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Deeplearning" scheme="https://kzhoulatte.github.io/tags/Deeplearning/"/>
+    
+  </entry>
   
   <entry>
     <title>GPU Architecture</title>
@@ -80,7 +104,7 @@
     <link href="https://kzhoulatte.github.io/2017/05/02/Lidar-DL/"/>
     <id>https://kzhoulatte.github.io/2017/05/02/Lidar-DL/</id>
     <published>2017-05-02T22:29:58.000Z</published>
-    <updated>2017-05-03T09:29:10.000Z</updated>
+    <updated>2017-05-16T06:33:46.000Z</updated>
     
     <content type="html"><![CDATA[<p>Article reading and presentation preparation of paper: ‘Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks’</p>
 <p>Key ideas in this paper: <b></b></p>
