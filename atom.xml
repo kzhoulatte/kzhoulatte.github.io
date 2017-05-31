@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-05-28T20:41:20.000Z</updated>
+  <updated>2017-05-31T20:52:09.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Job hunting</title>
+    <link href="https://kzhoulatte.github.io/2017/05/31/Jobhunting/"/>
+    <id>https://kzhoulatte.github.io/2017/05/31/Jobhunting/</id>
+    <published>2017-05-31T13:49:16.000Z</published>
+    <updated>2017-05-31T20:52:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>和刚找到Facebook Data Engineer工作的师兄聊天，其实发现最后可能是因为Hadoop等背景，Kaggle如果已经有不错的成绩，Hadoop这些才是加分项。</p>
+<p>先Mark一下。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;和刚找到Facebook Data Engineer工作的师兄聊天，其实发现最后可能是因为Hadoop等背景，Kaggle如果已经有不错的成绩，Hadoop这些才是加分项。&lt;/p&gt;
+&lt;p&gt;先Mark一下。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="jobhunting" scheme="https://kzhoulatte.github.io/tags/jobhunting/"/>
+    
+  </entry>
   
   <entry>
     <title>GeoGuessr</title>
