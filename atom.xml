@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-06-02T04:24:05.000Z</updated>
+  <updated>2017-06-06T22:34:13.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zillowkaggle</title>
+    <link href="https://kzhoulatte.github.io/2017/06/06/zillowkaggle/"/>
+    <id>https://kzhoulatte.github.io/2017/06/06/zillowkaggle/</id>
+    <published>2017-06-06T15:33:03.000Z</published>
+    <updated>2017-06-06T22:34:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Kaggle上新一轮的比赛中Zillow price备受关注，知乎上的评价也很多。数据也很有意思。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Kaggle上新一轮的比赛中Zillow price备受关注，知乎上的评价也很多。数据也很有意思。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="kaggle" scheme="https://kzhoulatte.github.io/tags/kaggle/"/>
+    
+  </entry>
   
   <entry>
     <title>Hadoop and Spark</title>
@@ -86,30 +108,6 @@
   </entry>
   
   <entry>
-    <title>Lidar Deep Learning details</title>
-    <link href="https://kzhoulatte.github.io/2017/05/15/Lidar-DL-details/"/>
-    <id>https://kzhoulatte.github.io/2017/05/15/Lidar-DL-details/</id>
-    <published>2017-05-15T23:34:16.000Z</published>
-    <updated>2017-05-16T06:36:41.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>31号是正式DL课程presentation的时间，之前仔细看了一遍论文，但是挺多细节还是需要仔细考证的。还有两周时间，好好开始准备：</p>
-<p>（To be continued…）</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;31号是正式DL课程presentation的时间，之前仔细看了一遍论文，但是挺多细节还是需要仔细考证的。还有两周时间，好好开始准备：&lt;/p&gt;
-&lt;p&gt;（To be continued…）&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="Deeplearning" scheme="https://kzhoulatte.github.io/tags/Deeplearning/"/>
-    
-  </entry>
-  
-  <entry>
     <title>GPU Architecture</title>
     <link href="https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/"/>
     <id>https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/</id>
@@ -161,31 +159,6 @@
       &lt;p&gt;虽然Keras已经不被很多人推荐，但是觉得它的含义挺有趣。&lt;/p&gt;
 &lt;p&gt;Keras 是基于Theano的一个深度学习框架，它的设计参考了Torch，用Python编写，是一个高度模块化的神经网络库，支持GPU和CPU。&lt;/p&gt;
 &lt;p&gt;Keras 是古希腊语中”角”的意思,
-    
-    </summary>
-    
-    
-      <category term="deep learning" scheme="https://kzhoulatte.github.io/tags/deep-learning/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Fast Lidar-based road detection using fully CNN</title>
-    <link href="https://kzhoulatte.github.io/2017/05/02/Lidar-DL/"/>
-    <id>https://kzhoulatte.github.io/2017/05/02/Lidar-DL/</id>
-    <published>2017-05-02T22:29:58.000Z</published>
-    <updated>2017-05-16T06:33:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Article reading and presentation preparation of paper: ‘Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks’</p>
-<p>Key ideas in this paper: <b></b></p>
-<p>KITTI road benchmark; Lidar; Fully convolutional neural networks; pixel-wise semantic segmentation; FCN architecture; Encoder; Zero-padding; Dilated convolution; Decoder;  Receptive field; Inverse perspective mapping; Regions of interest; etc. </p>
-<p>Reference page: <a href="http://cs231n.github.io/convolutional-networks/" target="_blank" rel="external">http://cs231n.github.io/convolutional-networks/</a> </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Article reading and presentation preparation of paper: ‘Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks’&lt;/p&gt;
-&lt;p
     
     </summary>
     
