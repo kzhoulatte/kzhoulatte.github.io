@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-06-06T22:34:13.000Z</updated>
+  <updated>2017-10-02T23:32:23.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>leetcode</title>
+    <link href="https://kzhoulatte.github.io/2017/10/02/leetcode/"/>
+    <id>https://kzhoulatte.github.io/2017/10/02/leetcode/</id>
+    <published>2017-10-02T16:27:23.000Z</published>
+    <updated>2017-10-02T23:32:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Leetcode 博客</p>
+<p>“刷题是开心的，游戏是苦逼的”<br>刷题博客，记录刷题过程，总结算法，效率优先。<br>同时进行Big Data的Projects训练。</p>
+<p>Edx pricing options，系统设计, Research, Kaggle等。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Leetcode 博客&lt;/p&gt;
+&lt;p&gt;“刷题是开心的，游戏是苦逼的”&lt;br&gt;刷题博客，记录刷题过程，总结算法，效率优先。&lt;br&gt;同时进行Big Data的Projects训练。&lt;/p&gt;
+&lt;p&gt;Edx pricing options，系统设计, Research, Kaggl
+    
+    </summary>
+    
+    
+      <category term="leetcode" scheme="https://kzhoulatte.github.io/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bayesian</title>
+    <link href="https://kzhoulatte.github.io/2017/07/29/bayesian/"/>
+    <id>https://kzhoulatte.github.io/2017/07/29/bayesian/</id>
+    <published>2017-07-29T21:58:20.000Z</published>
+    <updated>2017-07-30T04:58:20.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>zillowkaggle</title>
