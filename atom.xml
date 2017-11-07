@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-10-02T23:32:23.000Z</updated>
+  <updated>2017-11-07T09:49:08.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>刷题前</title>
+    <link href="https://kzhoulatte.github.io/2017/11/06/%E5%88%B7%E9%A2%98%E5%89%8D/"/>
+    <id>https://kzhoulatte.github.io/2017/11/06/刷题前/</id>
+    <published>2017-11-07T01:41:48.000Z</published>
+    <updated>2017-11-07T09:49:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>刷题前<br>最近真心有点懒。准备写一点自己的感想，然后开始刷题找工作。<br>一个人的社会环境比我想象的要重要的多。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;刷题前&lt;br&gt;最近真心有点懒。准备写一点自己的感想，然后开始刷题找工作。&lt;br&gt;一个人的社会环境比我想象的要重要的多。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="刷题" scheme="https://kzhoulatte.github.io/tags/%E5%88%B7%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>leetcode</title>
