@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-12-01T21:46:33.000Z</updated>
+  <updated>2017-12-02T23:54:43.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Black-Scholes</title>
+    <link href="https://kzhoulatte.github.io/2017/12/02/Black-Scholes/"/>
+    <id>https://kzhoulatte.github.io/2017/12/02/Black-Scholes/</id>
+    <published>2017-12-02T14:42:18.000Z</published>
+    <updated>2017-12-02T23:54:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天早上听了一节关于Quant Interview的公开课，对比之前相同老师不同内容的另外一次，觉得确实还是明白了很多，对这个领域自我觉得算是入门了，理解还不够。</p>
+<p>然后看了两章的Pricing the future, 眼前有十七八世纪那种简易交易所外面熙熙攘攘的感觉，同时确实觉得在这样的环境下，法国人雷格纳特在交易所做事，能够慢慢领悟出一本书的规律-《概率计算和股票交易哲学》同时还归纳出数学表示，甚至用虚数试图的解释。这应该就是所谓的talent吧。</p>
+<p>同时下午打算好好研究一下量化定价的核心（圣杯）-BS公式。stochastic calculus/arbitrage/risk neutral这些都是关键的，暂放了。</p>
+<p>根据之前看edx课程以及下午的研究，先暂时写下自己对于fixed income金融衍生品的理解：</p>
+<p>金融衍生品的出现其实挺正常的，因为人们想要规避风险，但是后来就需要考虑规避风险是要付出代价的，所以需要考虑多少代价合适。所以最早也是最基本的思路，在没有任何模型的基础上，是可以通过replicating portfolio计算的，把一个portfolio的payoff当作期权的价格。这里用到的基本想法是市场上有那么多talent那么多眼睛，市场不应该存在arbitrage的机会，即无风险套利。</p>
+<p>但是这些只适用于简单的options，对于复杂的计算，还是需要一些模型处理。</p>
+<p>这时最先开始的应该是风险中立定价方法和鞅定价方法。这两种是从模型上给定了假设基础。比如风险中立定价虽然，严格来说不是假设，但是却提供了一个最简单明白的测度空间。他把期权的价格和投资者的风险偏好直接去除了，告诉我们衡量期权价格时，应该只关注于期权本身的期望以及其无风险折现的过程。但其实模型对于非风险中立测度空间也是成立的。这些可以参考：<a href="https://www.zhihu.com/question/26724322。" target="_blank" rel="external">https://www.zhihu.com/question/26724322。</a></p>
+<p>接着另外的是鞅定价模型，鞅首先就是假设赌博或者说足够随机的股票过程中，这一次的期望是和上一次的赌博无关的。所以有时候，求价格时，可以计算股价随机过程，使得在风险中立测度下更简单计算。</p>
+<p>从而来到了股票价格的随机过程描述。首先这里再想到雷格纳特自己观察到了股价变化和时间根的关系，也该算是这一切的开始吧。股价最重要的一个假设应该是对数正态分布，而这又是时间序列的一个共有的特性，都可以从复利的角度理解吧。</p>
+<p>然后通过这些和布朗运动的联系，又有了主要的两个定价方法，二项定价模型和BSM模型：</p>
+<p>二项定价模型，其实比较简单，但是又是非常强大。他只把股票每个时间点的变化想象的只有两种方式，但是如果时间足够密，又能够包含了庞大的可能性；</p>
+<p>BSM模型，七大假设就先不罗列了。推导思路就是根据对数正态分布的性质，分别推导期权是否被执行的P和执行所得E的表示，最后把正太分布的性质等都参杂在一起，也就变成了包含d1，d2的一个看起来很吓人的公式。</p>
+<p>这样到此为止，最大的问题就是布朗运动，维纳过程是如何很好的解释清楚这些模型的基础的。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天早上听了一节关于Quant Interview的公开课，对比之前相同老师不同内容的另外一次，觉得确实还是明白了很多，对这个领域自我觉得算是入门了，理解还不够。&lt;/p&gt;
+&lt;p&gt;然后看了两章的Pricing the future, 眼前有十七八世纪那种简易交易所外面熙熙攘攘
+    
+    </summary>
+    
+    
+      <category term="quant" scheme="https://kzhoulatte.github.io/tags/quant/"/>
+    
+  </entry>
   
   <entry>
     <title>最近所看-犹太恩怨</title>
