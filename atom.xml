@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2017-12-02T23:54:43.000Z</updated>
+  <updated>2017-12-03T00:10:41.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://kzhoulatte.github.io/2017/12/02/Black-Scholes/"/>
     <id>https://kzhoulatte.github.io/2017/12/02/Black-Scholes/</id>
     <published>2017-12-02T14:42:18.000Z</published>
-    <updated>2017-12-02T23:54:43.000Z</updated>
+    <updated>2017-12-03T00:10:41.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天早上听了一节关于Quant Interview的公开课，对比之前相同老师不同内容的另外一次，觉得确实还是明白了很多，对这个领域自我觉得算是入门了，理解还不够。</p>
 <p>然后看了两章的Pricing the future, 眼前有十七八世纪那种简易交易所外面熙熙攘攘的感觉，同时确实觉得在这样的环境下，法国人雷格纳特在交易所做事，能够慢慢领悟出一本书的规律-《概率计算和股票交易哲学》同时还归纳出数学表示，甚至用虚数试图的解释。这应该就是所谓的talent吧。</p>
@@ -35,6 +35,7 @@
 <p>二项定价模型，其实比较简单，但是又是非常强大。他只把股票每个时间点的变化想象的只有两种方式，但是如果时间足够密，又能够包含了庞大的可能性；</p>
 <p>BSM模型，七大假设就先不罗列了。推导思路就是根据对数正态分布的性质，分别推导期权是否被执行的P和执行所得E的表示，最后把正太分布的性质等都参杂在一起，也就变成了包含d1，d2的一个看起来很吓人的公式。</p>
 <p>这样到此为止，最大的问题就是布朗运动，维纳过程是如何很好的解释清楚这些模型的基础的。</p>
+<p>维纳工程和布朗运动类似，而在伊藤引理的框架下，股价或者其他金融产品是服从，一个固定利率加上一个随机过程的微风方程的，而在这个方程和stochastic calculus的框架下，其实就可以推导出BS formula等结论。</p>
 ]]></content>
     
     <summary type="html">
