@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-01-15T03:21:07.000Z</updated>
+  <updated>2018-01-15T03:38:44.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="https://kzhoulatte.github.io/2018/01/14/apply/"/>
     <id>https://kzhoulatte.github.io/2018/01/14/apply/</id>
     <published>2018-01-14T19:02:54.000Z</published>
-    <updated>2018-01-15T03:21:07.000Z</updated>
+    <updated>2018-01-15T03:38:44.000Z</updated>
     
     <content type="html"><![CDATA[<p>六点多听Data App Lab的讲座，Jason老师提到明天是节假日，我才想起来明天休息啊，这也是小惊喜吧。整理了一下我之前的文件夹等之后，加上下午以及周五晚上和师兄聊了好久之后，觉得可以稍微写点现在的想法。</p>
 <p>首先kaggle算是有了不错的成绩，接近全服top 1%了，剩下的gold medal以及master只能说走着瞧了，剩下的精力应该主要都放在面试准备上了。</p>
 <p>同样的data scientist其实不同的工作内容性质也相差很大，待遇也是。硅谷偏R&amp;D以及algorithms的需要比较强的CS和数理基础，level4大概能到25~30的package，而一般的analytics相关的，比较偏向于数据分析处理，哪怕flag公司，比较好的也是15~20，而一般的平均水平大概在10~15。所以其实选择的余地和弹性还是很大。</p>
 <p>kaggle目前来说，虽然评价不一，但无疑是转专业的利器，但是部分小公司还是很认可的。</p>
 <p>这里先以R&amp;D的要求看自己吧，kaggle虽然做了不少，但是动手能力还是不算强，统计和算法能力不够。</p>
-<p>现在的想法是：kaggle暂时放下了，更多时间把简历相关的细节搞清楚(know your resume)，把kaggle相关的经验消化清楚，推一推公式，把自己的理解整理出来，同时提高from scratch的能力或者说不google的情况下的能力。提高统计／分析／算法／优化相关的背景，把自己的理解表达规范化，英语交流能力也可以提高一下。</p>
+<p>现在的想法是：kaggle暂时放下了，更多时间把简历相关的细节搞清楚(know your resume)，把kaggle相关的经验消化清楚，推一推公式，把自己的理解整理出来，包括通过github把流程规范化，同时提高from scratch的能力或者说不google的情况下的能力。提高统计／分析／算法／优化相关的背景，把自己的理解表达规范化，英语交流能力也可以提高一下。</p>
 <p>当然以后把这些理解写在这里。</p>
 ]]></content>
     
