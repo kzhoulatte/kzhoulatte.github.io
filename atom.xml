@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-01-15T08:08:06.000Z</updated>
+  <updated>2018-01-15T10:34:46.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -20,9 +20,18 @@
     <link href="https://kzhoulatte.github.io/2018/01/14/instacart/"/>
     <id>https://kzhoulatte.github.io/2018/01/14/instacart/</id>
     <published>2018-01-15T00:03:36.000Z</published>
-    <updated>2018-01-15T08:08:06.000Z</updated>
+    <updated>2018-01-15T10:34:46.000Z</updated>
     
     <content type="html"><![CDATA[<p>Instacart算是我第一个kaggle比赛，幸运拿到了85th of 2623的名次，其实这个比赛的内容还是很丰富的，比如类似数据库结构的datasets、包含简单的word2vec、feature engineering、F1 maximization、CV、PCA、调参以及ensemble。</p>
+<p>虽然没有很fancy的模型和技巧，但是feature engineering和对数据的理解还是挺重要的。<br>整理的pdf presentation file：</p>
+
+
+	<div class="row">
+    <embed src="../uploads/myinstacart.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
 ]]></content>
     
     <summary type="html">
