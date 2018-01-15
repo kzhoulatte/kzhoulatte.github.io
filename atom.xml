@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-01-15T03:38:44.000Z</updated>
+  <updated>2018-01-15T08:00:09.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>santamatch</title>
+    <link href="https://kzhoulatte.github.io/2018/01/14/santamatch/"/>
+    <id>https://kzhoulatte.github.io/2018/01/14/santamatch/</id>
+    <published>2018-01-14T23:47:09.000Z</published>
+    <updated>2018-01-15T08:00:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>关于projects, 虽然在santa match challenge里成功使用了ortools里的min cost max flow method，对于问题的formation是基本了解的，但是对于这个图论算法本身不了解，比如为什么这个图论算法可以这么快解决本是NP hard的integer programming问题。</p>
+<p>稍微了解之后，发现mincostmaxflow在Computer vision还有很多应用。<br>而对于这个图论问题的解法本身，这里简单记录：</p>
+<p>Min Cost Max Flow的问题主要解决思路是：最大流的条件是当且仅当residual network不存在Augmenting Path。而Augmenting path定义：假如有这么一条路，这条路从源点开始一直一段一段的连到了汇点，并且，这条路上的每一段都满足流量 &lt; 容量。那么，我们一定能找到这条路上的每一段的(容量-流量)的值当中的最小值delta。我们把这条路上每一段的流量都加上这个delta，一定可以保证这个流依然是可行流。这样我们就得到了一个更大的流，他的流量是之前的流量+delta，而这条路就叫做增广路径。</p>
+<p>再看之后的，不得不说不是时候，暂且放下其余的细节。 </p>
+<p>贴个索引：<a href="http://mindlee.com/2011/11/19/network-flow/" target="_blank" rel="external">http://mindlee.com/2011/11/19/network-flow/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;关于projects, 虽然在santa match challenge里成功使用了ortools里的min cost max flow method，对于问题的formation是基本了解的，但是对于这个图论算法本身不了解，比如为什么这个图论算法可以这么快解决本是NP h
+    
+    </summary>
+    
+    
+      <category term="kaggle" scheme="https://kzhoulatte.github.io/tags/kaggle/"/>
+    
+  </entry>
   
   <entry>
     <title>apply</title>
