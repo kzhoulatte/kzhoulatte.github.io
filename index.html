@@ -390,10 +390,10 @@
         
           
             <p>重新过了一遍Hadoop projects的内容，其中主要分析基于N Gram模型和word count的google search autocomplete/基于mapreduce乘法的Pagerank／TopK／协同过滤的Recommender System。</p>
-<p>这里想把里面的主要思想简单的记录一下。<br>首先google search autocomplete的想法听简单的，主要就是N Gram模型下的word count；<br>Pagerank和Recommender System的算法最后是类似的，主要是基于mapreduce情况下的矩阵乘法；从算法思想里来说，TopK反而是最tricky的，也是最容易考的面试内容。</p>
-<p>其中TopK首先需要hash table进行map分类，进行不同的word count；然后通过heapq进行topk的算法，理想结果是nlog(k)复杂度；同时需要考虑一个细节是：如果某个item freq太高使得某个node负担太大，则需要额外加入_01,_02的sample处理；最后某个node需要负责把不同下标的相同item结果整合，最后再把局部TopK集合计算整体的TopK。</p>
+<p>这里想把里面的主要思想简单的记录一下。<br>首先google search autocomplete的想法挺简单的，主要就是N Gram模型下的word count；<br>Pagerank和Recommender System的算法最后是类似的，主要是基于mapreduce情况下的矩阵乘法；从算法思想里来说，TopK反而是最tricky的，也是最容易考的面试内容。</p>
+<p>其中TopK首先需要hash table进行map分类，进行不同的word count；然后通过heapq进行topk的算法，理想结果是nlog(k)复杂度；同时需要考虑一个细节是：如果某个item freq太高使得某个node负担太大，则需要额外加入下标_01,_02进行sample处理；最后某个node需要负责把不同下标的相同item结果整合，最后再把局部TopK集合计算整体的TopK。</p>
 <p>这其中也可以用到database。</p>
-<p>这里其实设计了不少Big Data的思路。</p>
+<p>其实涉及了不少Big Data的思路。</p>
 
           
         
