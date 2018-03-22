@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-03-19T23:53:31.000Z</updated>
+  <updated>2018-03-19T23:53:10.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,30 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>mywish</title>
-    <link href="https://kzhoulatte.github.io/2018/03/19/mywish/"/>
-    <id>https://kzhoulatte.github.io/2018/03/19/mywish/</id>
-    <published>2018-03-19T16:47:50.000Z</published>
-    <updated>2018-03-19T23:53:31.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近所想：</p>
-<p>有些事不妨藏起来，但是同时，我希望能够做到的，能够保护好，希望能做到和我出去能够不用担心只管享乐，这时候可能我就准备好了吧。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最近所想：&lt;/p&gt;
-&lt;p&gt;有些事不妨藏起来，但是同时，我希望能够做到的，能够保护好，希望能做到和我出去能够不用担心只管享乐，这时候可能我就准备好了吧。&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="wish" scheme="https://kzhoulatte.github.io/tags/wish/"/>
-    
-  </entry>
   
   <entry>
     <title>myself</title>
@@ -519,6 +495,28 @@
     
     
       <category term="观后感" scheme="https://kzhoulatte.github.io/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="https://kzhoulatte.github.io/2017/04/09/About-Me/"/>
+    <id>https://kzhoulatte.github.io/2017/04/09/About-Me/</id>
+    <published>2017-04-09T21:38:07.000Z</published>
+    <updated>2017-12-03T06:10:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&ensp;&ensp;I am a PhD candidate at UC Riverside. I am now focused on semiconductor research and data science. This is a personal blog which I use to help organize my thoughts.</p>
+<p>&ensp;&ensp;My contacts are:<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Cell: +1 (951)-318-1339<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Email: kzhou003@ucr.edu</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;ensp;&amp;ensp;I am a PhD candidate at UC Riverside. I am now focused on semiconductor research and data science. This is a personal blog wh
+    
+    </summary>
+    
+    
+      <category term="Personal" scheme="https://kzhoulatte.github.io/tags/Personal/"/>
     
   </entry>
   
