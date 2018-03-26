@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-03-19T23:53:10.000Z</updated>
+  <updated>2018-03-26T16:22:12.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>english</title>
+    <link href="https://kzhoulatte.github.io/2018/03/26/english/"/>
+    <id>https://kzhoulatte.github.io/2018/03/26/english/</id>
+    <published>2018-03-26T09:13:29.000Z</published>
+    <updated>2018-03-26T16:22:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>There is a very important lesson I just learned about English. </p>
+<p>Keep talking or try talking in the professional or authentic way is not for some specific time use, instead helping generate the vacabulary which will help a lot when writing. Thus you could stop thinking of quoting damn old sentences when writing new important materials. Honestly I like being the person who do better than talking more, but I need write in a cool way.  </p>
+<p>Things will accumulate and snowballed.   </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;There is a very important lesson I just learned about English. &lt;/p&gt;
+&lt;p&gt;Keep talking or try talking in the professional or authentic way i
+    
+    </summary>
+    
+    
+      <category term="english" scheme="https://kzhoulatte.github.io/tags/english/"/>
+    
+  </entry>
   
   <entry>
     <title>myself</title>
@@ -495,28 +519,6 @@
     
     
       <category term="观后感" scheme="https://kzhoulatte.github.io/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>About Me</title>
-    <link href="https://kzhoulatte.github.io/2017/04/09/About-Me/"/>
-    <id>https://kzhoulatte.github.io/2017/04/09/About-Me/</id>
-    <published>2017-04-09T21:38:07.000Z</published>
-    <updated>2017-12-03T06:10:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&ensp;&ensp;I am a PhD candidate at UC Riverside. I am now focused on semiconductor research and data science. This is a personal blog which I use to help organize my thoughts.</p>
-<p>&ensp;&ensp;My contacts are:<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Cell: +1 (951)-318-1339<br>&ensp; &ensp; &ensp; &ensp; &ensp;     Email: kzhou003@ucr.edu</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&amp;ensp;&amp;ensp;I am a PhD candidate at UC Riverside. I am now focused on semiconductor research and data science. This is a personal blog wh
-    
-    </summary>
-    
-    
-      <category term="Personal" scheme="https://kzhoulatte.github.io/tags/Personal/"/>
     
   </entry>
   
