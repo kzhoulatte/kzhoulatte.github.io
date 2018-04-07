@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-03-28T18:05:29.000Z</updated>
+  <updated>2018-04-07T17:20:40.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>game</title>
+    <link href="https://kzhoulatte.github.io/2018/04/07/game/"/>
+    <id>https://kzhoulatte.github.io/2018/04/07/game/</id>
+    <published>2018-04-07T10:14:41.000Z</published>
+    <updated>2018-04-07T17:20:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Game游戏是我一直以来本来接触不多的东西，虽然小时候也会逃课去游戏厅和网吧，但是可能是当时没钱吧，玩的不多，也只是接触，不会真正觉得特别好玩。</p>
+<p>一直以来也不觉得把游戏玩好了是多么了不起的事情，但是最近其实玩游戏挺多的。主要原因是想让自己静下来，宅下来，但是这可能只是我最初的原因，后来慢慢有点停不下来了，现在来说也算是痴迷过一小阵子了。</p>
+<p>我本身是个很要强的人，我也发现了游戏中所谓的麻痹。</p>
+<p>但是Game看来还是无缘了。</p>
+<p>大学里的同学说过一句话，我觉得很酷：我真的想不通，那些傻逼玩游戏怎么还玩出优越感来了。</p>
+<p>是的，这就是该有的态度吧。</p>
+<p>over。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Game游戏是我一直以来本来接触不多的东西，虽然小时候也会逃课去游戏厅和网吧，但是可能是当时没钱吧，玩的不多，也只是接触，不会真正觉得特别好玩。&lt;/p&gt;
+&lt;p&gt;一直以来也不觉得把游戏玩好了是多么了不起的事情，但是最近其实玩游戏挺多的。主要原因是想让自己静下来，宅下来，但是这
+    
+    </summary>
+    
+    
+      <category term="thoughts" scheme="https://kzhoulatte.github.io/tags/thoughts/"/>
+    
+  </entry>
   
   <entry>
     <title>reflect</title>
@@ -501,28 +529,6 @@
     
     
       <category term="2Dmaterials" scheme="https://kzhoulatte.github.io/tags/2Dmaterials/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>coding</title>
-    <link href="https://kzhoulatte.github.io/2017/04/12/coding/"/>
-    <id>https://kzhoulatte.github.io/2017/04/12/coding/</id>
-    <published>2017-04-13T02:28:50.000Z</published>
-    <updated>2017-04-13T09:59:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&ensp; &ensp; 好好研究了一下Matlab的3D画图功能，参考书籍是《精通Matlab》张志涌。才发现在plot3，meshgrid和surf三个基本命令之后，Matlab的潜能才刚刚是个开始。<b><br>&ensp; &ensp; colormap加上shading，view，light，material，alpha几个参数命令，由colormap自然可以得到很多绚丽配色的图，惊喜是light和material的调整就好像摄影里的灯光和美工一样，能够立马让图像获得质感，可以制作符合出版要求的图像。<b><br>&ensp; &ensp; 同时，一个小发现是，github以及matlab自己的file exchange上，有很多人开发了各种matlab schemer，可以修改matlab的界面。尝试了之后觉得还不错，比较喜欢sublime的仿制版本。<b><br>&ensp; &ensp; 说到sublime这个被称作性感编辑器的家伙, 下载了之后打开确实小有惊艳，非常有质感的编辑器，加上那么高的灵活性和传说中的各种神插件。我就把它先默默放在那里吧，以后需要的时候，再好好研究一下。<b></b></b></b></b></p>
-<p>&ensp; &ensp; Coding… </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&amp;ensp; &amp;ensp; 好好研究了一下Matlab的3D画图功能，参考书籍是《精通Matlab》张志涌。才发现在plot3，meshgrid和surf三个基本命令之后，Matlab的潜能才刚刚是个开始。&lt;b&gt;&lt;br&gt;&amp;ensp; &amp;ensp; colormap加上sha
-    
-    </summary>
-    
-    
-      <category term="coding" scheme="https://kzhoulatte.github.io/tags/coding/"/>
     
   </entry>
   
