@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-04-07T17:22:30.000Z</updated>
+  <updated>2018-05-04T21:18:32.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>感想</title>
+    <link href="https://kzhoulatte.github.io/2018/05/04/%E6%84%9F%E6%83%B3/"/>
+    <id>https://kzhoulatte.github.io/2018/05/04/感想/</id>
+    <published>2018-05-04T14:09:39.000Z</published>
+    <updated>2018-05-04T21:18:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近是属于想法很多的日子，可能思考的源动力就是对现状的不满吧。</p>
+<p>也就还有几个月了，不需要考虑这些那些，让自己不爽的不满足的就放到一边。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近是属于想法很多的日子，可能思考的源动力就是对现状的不满吧。&lt;/p&gt;
+&lt;p&gt;也就还有几个月了，不需要考虑这些那些，让自己不爽的不满足的就放到一边。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="thoughts" scheme="https://kzhoulatte.github.io/tags/thoughts/"/>
+    
+  </entry>
   
   <entry>
     <title>game</title>
@@ -505,30 +529,6 @@
     
     
       <category term="notes" scheme="https://kzhoulatte.github.io/tags/notes/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2D materials-My understanding</title>
-    <link href="https://kzhoulatte.github.io/2017/04/17/2Dmaterials/"/>
-    <id>https://kzhoulatte.github.io/2017/04/17/2Dmaterials/</id>
-    <published>2017-04-17T14:00:19.000Z</published>
-    <updated>2017-04-19T01:36:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我的PhD研究领域是2D materials的光学和电学性质，尤其是电子输运性质。<b><br>一些”科普向”的理解：<b></b></b></p>
-<p>摘自<a href="https://www.scientificamerican.com/article/graphene-finally-gets-an-electronic-on-off-switch/" target="_blank" rel="external">https://www.scientificamerican.com/article/graphene-finally-gets-an-electronic-on-off-switch/</a>:<b><br>“Semiconductors are defined by their band gap: the energy required to excite an electron stuck in the valence band, where it cannot conduct electricity, to the conduction band, where it can. The band gap needs to be large enough so that there is a clear contrast between a transistor’s on and off states, and so that it can process information without generating errors.” <b></b></b></p>
-<p>Relaxation time and charge density as a function of energy level calculation for graphene: (literature reading…)</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我的PhD研究领域是2D materials的光学和电学性质，尤其是电子输运性质。&lt;b&gt;&lt;br&gt;一些”科普向”的理解：&lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;摘自&lt;a href=&quot;https://www.scientificamerican.com/article/graph
-    
-    </summary>
-    
-    
-      <category term="2Dmaterials" scheme="https://kzhoulatte.github.io/tags/2Dmaterials/"/>
     
   </entry>
   
