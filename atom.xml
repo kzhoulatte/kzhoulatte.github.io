@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-05-04T21:24:17.000Z</updated>
+  <updated>2018-09-17T00:16:22.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>interviews</title>
+    <link href="https://kzhoulatte.github.io/2018/09/16/interviews/"/>
+    <id>https://kzhoulatte.github.io/2018/09/16/interviews/</id>
+    <published>2018-09-16T17:00:51.000Z</published>
+    <updated>2018-09-17T00:16:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>About interviews.<br>找工作几个月后，慢慢似乎尘埃落定了，转专业和在他乡，面试和申请比我想象的复杂的多。在这里也简单记录一下其中的感触和insights(应该以后都会喜欢用insight这个词吧lol)</p>
+<p>以下针对MLE，也部分适用SDE和DS。</p>
+<p>找工作最重要的还是硬实力，其中刷题和ML/DL是最重要的，总结和实战最有效果，尤其注意一些细节。这部分其实也说不了多少，因为无他唯手熟尔的感觉，就是得练和看书。慢慢自己自然有对自己的认识了，到底准备好了没。在面试过程中，MLE一般都是Medium的题目，但是属于Medium偏简单，会有部分DP/DFS/BFS问题，但是更主要是hash table的应用。</p>
+<p>然后是自己的项目经验，也不用多说，注意细节就好，可以多和周边朋友讨论，看他们有没有什么问题。</p>
+<p>然后是一些比较细节但是必须也要有一定基础的部分，包括统计，SQL，Big Data，AB Testing，Recommender System甚至Knowledge graph等，这些可以通过一些比较好的MOOC课程，有一定基础后，简单练习然后面试前根据JD再次练习就好。</p>
+<p>最后非常重要而且难练习的是case study和ml system design。这些记得多练习，然后有一定的自己套路就好。</p>
+<p>最后的最后，也是容易忽略的就是基本的数理基础和Behaviour questions，这些很容易被忽略，但是有的大公司可能面到。</p>
+<p>其他的细节，就是多总结，每次面试多了解公司做deep dive，多准备相关的问题。</p>
+<p>以及，面试前知道面试官，表现自然淡定。</p>
+<p>大致就是如此。细节联系zhoukuan1@gmail.com，一起讨论LoL。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;About interviews.&lt;br&gt;找工作几个月后，慢慢似乎尘埃落定了，转专业和在他乡，面试和申请比我想象的复杂的多。在这里也简单记录一下其中的感触和insights(应该以后都会喜欢用insight这个词吧lol)&lt;/p&gt;
+&lt;p&gt;以下针对MLE，也部分适用SDE和D
+    
+    </summary>
+    
+    
+      <category term="interviews" scheme="https://kzhoulatte.github.io/tags/interviews/"/>
+    
+  </entry>
   
   <entry>
     <title>感想</title>
@@ -507,31 +538,6 @@
     
     
       <category term="deep learning" scheme="https://kzhoulatte.github.io/tags/deep-learning/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RPA understanding</title>
-    <link href="https://kzhoulatte.github.io/2017/04/20/RPA-understanding/"/>
-    <id>https://kzhoulatte.github.io/2017/04/20/RPA-understanding/</id>
-    <published>2017-04-20T16:34:02.000Z</published>
-    <updated>2017-04-25T06:22:14.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>RPA here is Random Phase Approximation, which is one of the basis approximation in DFT calculation and condensed matter physics. This is a note which I gradually got better understanding of it. <b></b></p>
-<p>In the RPA, electrons are assumed to respond only to the total electric potential V(r) which is the sum of the external perturbing potential Vext(r) and a screening potential Vsc(r). The external perturbing potential is assumed to oscillate at a single frequency ω, so that the model yields via a self-consistent field (SCF) method a dynamic dielectric function denoted by εRPA(k, ω).<b></b></p>
-<p>The contribution to the dielectric function from the total electric potential is assumed to average out, so that only the potential at wave vector k contributes. This is what is meant by the random phase approximation. <b></b></p>
-<p>In DFT, the treatment of exchange and correlation in terms of ‘‘exact-exchange plus correlation in the random-phase approximation’’ offers a promising avenue in accurate simulations.</p>
-<p>From wiki.com and article:”Random-phase approximation and its applications in computational chemistry and materials science”, DOI 10.1007/s10853-012-6570-4.  </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;RPA here is Random Phase Approximation, which is one of the basis approximation in DFT calculation and condensed matter physics. This is 
-    
-    </summary>
-    
-    
-      <category term="notes" scheme="https://kzhoulatte.github.io/tags/notes/"/>
     
   </entry>
   
