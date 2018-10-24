@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
-  <updated>2018-10-07T02:31:20.000Z</updated>
+  <updated>2018-10-24T21:47:06.000Z</updated>
   <id>https://kzhoulatte.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>her</title>
+    <link href="https://kzhoulatte.github.io/2018/10/24/her/"/>
+    <id>https://kzhoulatte.github.io/2018/10/24/her/</id>
+    <published>2018-10-24T14:45:13.000Z</published>
+    <updated>2018-10-24T21:47:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先我是不想让她看到的。</p>
+<p>我只是单纯的告诉自己，享受这个状态想清楚了就去踏实地做，不用想了去用心做就好了。</p>
+<p>加油。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;首先我是不想让她看到的。&lt;/p&gt;
+&lt;p&gt;我只是单纯的告诉自己，享受这个状态想清楚了就去踏实地做，不用想了去用心做就好了。&lt;/p&gt;
+&lt;p&gt;加油。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="her" scheme="https://kzhoulatte.github.io/tags/her/"/>
+    
+  </entry>
   
   <entry>
     <title>theoneiwantbe</title>
@@ -501,41 +527,6 @@
     
     
       <category term="fun" scheme="https://kzhoulatte.github.io/tags/fun/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GPU Architecture</title>
-    <link href="https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/"/>
-    <id>https://kzhoulatte.github.io/2017/05/10/GPUArchitecture/</id>
-    <published>2017-05-10T18:23:02.000Z</published>
-    <updated>2017-05-12T00:14:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近NVIDIA的股票又在疯涨。<b><br>AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。</b></p>
-<p>继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。<b><br>挖坑学习一下GPU架构及原理。</b></p>
-<p>参考：<a href="https://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html" target="_blank" rel="external">https://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html</a></p>
-<p>里面已经写得非常清楚详细，主要的总结是：</p>
-<p>（1）显卡结构本质上没什么区别，注意核心参数：处理器核心，工作频率，显存位宽，单卡or双卡。对于深度学习，因为数据量大，核心数和显存大小比较重要。同时需要注意CUDA需要让所有的core都工作。</p>
-<p>（2）显卡的SM流处理器簇是GPU的核心部分，其中包括了各种调度器共享内存等等。同时不同架构的区别往往在于SM的设计，比如shared memory大小，比如FP unit，INT unit，DP unit的相互比例关系。这些关系都可以决定这块显卡的性能以及适合做什么工作。（ps：深度学习使用的M系列显卡是单精度的，深度学习并不要求双精度）</p>
-<p>（3）TESLA的K型号卡适合高性能科学计算，同时支持双精度，但是不怎么适合深度学习。</p>
-<p>（4）针对不同的应用，开源库都已经挺完整。卷积计算：cudnn；卷积神经网络：caffe，torch；rnn：mxnet，tensorflow等。</p>
-<p>（5）相互的架构连接以及内存技术也一直在更新，比如ECC内存，HBM内存。</p>
-<p>（6）如果使用多张显卡，注意电源的选择。</p>
-<p>关于AMD和NVIDIA的显卡区别，目前看主要的有：</p>
-<p>（1）两者面向更高计算性能的途径不一样，NVIDIA倾向于more capable stream processors allowing for slightly more complex calculations; 而AMD倾向smaller, less complex stream processors。所以两者在不同类型的计算任务上性能各有优劣。</p>
-<p>（2）在图像显示游戏性能方面，虽然也各有优劣。但是由于目前只有CUDA完美支持Physx物理加速（Physx可以在GPU或加速卡），所以N卡比较占优。</p>
-<p>而新的GV100芯片，除了先进的L1 Cache和Memory等技术加线程调度技术，主要新特性是加入了Tensor Core，所以非常适合深度学习。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最近NVIDIA的股票又在疯涨。&lt;b&gt;&lt;br&gt;AMD的Vega在GDC大会上公布，NVIDIA的Volta架构GV100也在GTC2017上曝光。&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;继Tesla/Fermi/Kepler/Maxwell/Pascal之后，Volta的新架构备受瞩目。&lt;
-    
-    </summary>
-    
-    
-      <category term="GPU" scheme="https://kzhoulatte.github.io/tags/GPU/"/>
     
   </entry>
   
