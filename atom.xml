@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LATTE world</title>
-  <subtitle>MLE at Bay area focusing on NLP, FinTech.</subtitle>
+  <subtitle>MLE focusing on NLP and FinTech.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
