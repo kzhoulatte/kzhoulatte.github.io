@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LATTE world</title>
-  <subtitle>光锥之内皆是命运.</subtitle>
+  <subtitle>光锥之内.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kzhoulatte.github.io/"/>
