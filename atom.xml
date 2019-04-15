@@ -121,31 +121,6 @@
   </entry>
   
   <entry>
-    <title>myself</title>
-    <link href="https://kzhoulatte.github.io/2018/03/09/myself/"/>
-    <id>https://kzhoulatte.github.io/2018/03/09/myself/</id>
-    <published>2018-03-09T20:08:27.000Z</published>
-    <updated>2019-03-13T06:15:13.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>写点关于自己的事。<br>最近因为参加APS和不断的投简历和收面试，在想一些以前的事。其中的起因是关注了magic angle superconductor的事和收到了几家大厂的interview面试邀请，如Jane Street/SIG LLP/Google。</p>
-<p>七八岁的时候虽然还很喜欢赖在爸妈边上，但是慢慢开始喜欢摸麻将，看得懂麻将，而且能够盲摸麻将；一年级二年级两年除了一次语文97，其余都是100；四年级开始参加数学竞赛，而且市里比赛，91分是我们乡学校第一次拿的一等奖；有一段时间特别喜欢和伯下军旗，慢慢进步；经常带数学竞赛题目回家，然后有时候被爸爸做了，会不高兴，所以会争着做；开始喜欢象棋和算24点，24点很少输，象棋不是很擅长；初中入学考试是乡中学的第一，不过在市中学不算好；市中学第一次期中考试全班第一；在班级里一段时间代替老师中午答疑；同时参加所有学科竞赛，虽然没有出彩成绩但是数学，科学，计算机都有些奖项；初中英语很出彩，经常被英语老师表扬；初中是班主任最看好的一个，因为觉得不偏科，而且成绩好；初中基本没有额外用功的概念，每天放学只会去打球，甚至跟着同学去网吧和台球；初中最终市前100，升入高中拿到奖金1万；高中第一次期中考，全年级段第二；高一参加全高中数学竞赛，因为策略比较好，拿到了绍兴市二等奖，小出名；高二开始是唯二之一的参加两个竞赛，也开始慢慢有动力；因为受伤和一些其他关系，成绩有所下降，但是高考拿到了市第五；因为高二看的爱因斯坦传记选择了物理，成绩在USTC不上不下，最好的一个学期拿到了4.03/4.3；数理方程以及其他专业数学课都拿到了90以上；六个月之内参加kaggle比赛，最终到了天梯1%；</p>
-<p>其他的，篮球／台球／24点／扑克／麻将／狼人杀／滑雪／羽毛球／都还可以；我爸确实是我见过的算很聪明的了；</p>
-<p>找工作期间随想而已，祝自己好运。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;写点关于自己的事。&lt;br&gt;最近因为参加APS和不断的投简历和收面试，在想一些以前的事。其中的起因是关注了magic angle superconductor的事和收到了几家大厂的interview面试邀请，如Jane Street/SIG LLP/Google。&lt;/p&gt;
-&lt;
-    
-    </summary>
-    
-    
-      <category term="myself" scheme="https://kzhoulatte.github.io/tags/myself/"/>
-    
-  </entry>
-  
-  <entry>
     <title>grandpa</title>
     <link href="https://kzhoulatte.github.io/2018/02/28/grandpa/"/>
     <id>https://kzhoulatte.github.io/2018/02/28/grandpa/</id>
@@ -530,6 +505,28 @@
     
     
       <category term="2Dmaterials" scheme="https://kzhoulatte.github.io/tags/2Dmaterials/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>coding</title>
+    <link href="https://kzhoulatte.github.io/2017/04/12/coding/"/>
+    <id>https://kzhoulatte.github.io/2017/04/12/coding/</id>
+    <published>2017-04-13T02:28:50.000Z</published>
+    <updated>2017-04-13T09:59:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&ensp; &ensp; 好好研究了一下Matlab的3D画图功能，参考书籍是《精通Matlab》张志涌。才发现在plot3，meshgrid和surf三个基本命令之后，Matlab的潜能才刚刚是个开始。<b><br>&ensp; &ensp; colormap加上shading，view，light，material，alpha几个参数命令，由colormap自然可以得到很多绚丽配色的图，惊喜是light和material的调整就好像摄影里的灯光和美工一样，能够立马让图像获得质感，可以制作符合出版要求的图像。<b><br>&ensp; &ensp; 同时，一个小发现是，github以及matlab自己的file exchange上，有很多人开发了各种matlab schemer，可以修改matlab的界面。尝试了之后觉得还不错，比较喜欢sublime的仿制版本。<b><br>&ensp; &ensp; 说到sublime这个被称作性感编辑器的家伙, 下载了之后打开确实小有惊艳，非常有质感的编辑器，加上那么高的灵活性和传说中的各种神插件。我就把它先默默放在那里吧，以后需要的时候，再好好研究一下。<b></b></b></b></b></p>
+<p>&ensp; &ensp; Coding… </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;ensp; &amp;ensp; 好好研究了一下Matlab的3D画图功能，参考书籍是《精通Matlab》张志涌。才发现在plot3，meshgrid和surf三个基本命令之后，Matlab的潜能才刚刚是个开始。&lt;b&gt;&lt;br&gt;&amp;ensp; &amp;ensp; colormap加上sha
+    
+    </summary>
+    
+    
+      <category term="coding" scheme="https://kzhoulatte.github.io/tags/coding/"/>
     
   </entry>
   
